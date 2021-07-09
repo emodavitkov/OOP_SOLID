@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A474627\\source\\repos\\OOP_SOLID\\OOP_SOLID\\OOP_SOLID.csproj",
-      "projectName": "OOP_SOLID",
-      "projectPath": "C:\\Users\\A474627\\source\\repos\\OOP_SOLID\\OOP_SOLID\\OOP_SOLID.csproj",
+      "projectUniqueName": "C:\\Users\\A474627\\source\\repos\\OOP_SOLID\\OOP_SOLID\\SOLID.csproj",
+      "projectName": "SOLID",
+      "projectPath": "C:\\Users\\A474627\\source\\repos\\OOP_SOLID\\OOP_SOLID\\SOLID.csproj",
       "packagesPath": "C:\\Users\\A474627\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\A474627\\source\\repos\\OOP_SOLID\\OOP_SOLID\\obj\\",
       "projectStyle": "PackageReference",
